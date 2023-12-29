@@ -1,0 +1,13 @@
+{
+    "name": "Crru Organization 1 Workflow",
+    "description": "Crru Organization 1 CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
